@@ -1,0 +1,6 @@
+../Core/Src/main.c:5:6:TIM2_PWM_Init	1
+../Core/Src/main.c:15:6:GPIO_Init	1
+../Core/Src/main.c:28:6:Motor_SetSpeed	2
+../Core/Src/main.c:33:6:Motor_SetDirection	2
+../Core/Src/main.c:41:6:delay_ms	2
+../Core/Src/main.c:45:5:main	1
